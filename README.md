@@ -1,10 +1,10 @@
-### Code for RAPBO
+### Code for RADBO
 
 ### Necessary Environment
 
 ```bash
-conda create -n rapbo python=3.9
-conda activate rapbo
+conda create -n radbo python=3.9
+conda activate radbo
 
 pip install botorch
 pip install cmaes
@@ -14,7 +14,7 @@ pip install zoopt
 ### Run for Example
 
 ```bash
-python RAPBO.py
+python RADBO.py
 ```
 
 
