@@ -56,7 +56,7 @@ elif objfunctions == 'Dixon':
     objectiveFunction = tfs.Dixon(objDim=objDim, effDim=effDim)
 bounds = torch.stack([torch.ones(objDim) * (-1), torch.ones(objDim)])
 bounds_prefer = torch.tensor([[row[i] for row in bounds] for i in range(len(bounds[0]))])
-directory_path = f".\\result\\RAPBO\\{objfunctions}-{objDim}-{budget}bg{beginNum}-k{k}\\"
+directory_path = f".\\result\\RADBO\\{objfunctions}-{objDim}-{budget}bg{beginNum}-k{k}\\"
 os.makedirs(directory_path, exist_ok=True)  # check if the folder exists
 
 bestSofar = []
