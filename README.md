@@ -47,4 +47,3 @@ Xiang Xia, Xiang Shu, Shuo Liu, Yiyi Zhu, Yijie Zhou, Weiye Wang, Bingdong Li, a
 ```
 ---
 
-For further assistance, please refer to the code comments or contact the authors.
