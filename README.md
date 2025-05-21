@@ -40,7 +40,7 @@ Xiang Xia, Xiang Shu, Shuo Liu, Yiyi Zhu, Yijie Zhou, Weiye Wang, Bingdong Li, a
 @inproceedings{radbo,
  author = {Xiang Xia and Xiang Shu and Shuo Liu and Yiyi Zhu and Yijie Zhou and Weiye Wang and Bingdong Li and Hong Qian},
  booktitle = {Proceedings of the 34th International Joint Conference on Artificial Intelligence (IJCAI)},
- title = {Relation-Augmented Dueling Bayesian Optimization via Preference Propagation},
+ title = {Relation-Augmented Dueling {B}ayesian Optimization via Preference Propagation},
  year = {2025},
  address = {Montreal, Canada}
 }
