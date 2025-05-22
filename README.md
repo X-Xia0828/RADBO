@@ -1,6 +1,6 @@
 # RADBO
 
-he implementation for the IJCAI-25 paper "Relation-Augmented Dueling Bayesian Optimization via Preference Propagation". The main paper and the appendix are in the main.pdf and appendix.pdf respectively, which are contained in the folder named paper.
+The implementation for the IJCAI-25 paper "Relation-Augmented Dueling Bayesian Optimization via Preference Propagation". The main paper and the appendix are in the main.pdf and appendix.pdf respectively, which are contained in the folder named paper.
 
 ---
 
